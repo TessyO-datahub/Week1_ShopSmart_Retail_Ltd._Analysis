@@ -28,13 +28,13 @@ Which stores experienced inventory shortages?
 Which products had the highest return rates?
 
 ## Tools Used
--Microsoft Excel
--Pivot Tables
--Pivot Charts
--XLOOKUP
--Data Cleaning and Validation
--Dashboard Design
--Business Reporting
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- XLOOKUP
+- Data Cleaning and Validation
+- Dashboard Design
+- Business Reporting
 
 ## Data Analysis Process
 
