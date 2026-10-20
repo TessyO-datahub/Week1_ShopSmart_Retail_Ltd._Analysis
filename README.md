@@ -6,6 +6,7 @@
 
 - [Excel Dashboard](ShopSmart_Retail_Analysis.xlsx)
 - [Project Report](/ShopSmart_Retail_Business_Report.pdf)
+- [Project Report](/Data_Methodology.pdf)
 
 ## Project Overview
 
