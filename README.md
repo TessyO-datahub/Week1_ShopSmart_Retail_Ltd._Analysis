@@ -1,5 +1,7 @@
 # ShopSmart Retail Ltd. Sales Analysis
 
+![Dashboard Preview](Dashboard_Screenshot.png)
+
 ## Project Overview
 
 This project was completed as part of the AnalystLab Africa Data Analytics Internship.
