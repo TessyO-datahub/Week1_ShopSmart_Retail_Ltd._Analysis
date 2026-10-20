@@ -8,10 +8,10 @@ This project was completed as part of the AnalystLab Africa Data Analytics Inter
 
 The objective was to analyze ShopSmart Retail Ltd.'s sales, inventory, customer, and returns data to identify business insights and support data-driven decision-making, identifying:
 
--Sales trends
--Inventory shortages
--Product return patterns
--Store performance
+- Sales trends
+- Inventory shortages
+- Product return patterns
+- Store performance
 
 ## Business Objectives
 
