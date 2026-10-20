@@ -108,7 +108,7 @@ This analysis demonstrates that the performance of ShopSmart Retail Ltd stores m
 - ShopSmart_Retail_Analysis.xlsx
 - ShopSmart Retail_Executive_Dashboard.pdf
 - ShopSmart Retail_Business Report.pdf
-- Data Preparation and Analysis Procedure.pdf
+- Data_Methodology.pdf
 
 ## Skills Demonstrated
 
